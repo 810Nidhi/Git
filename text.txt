@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>More on git remotes</title>
+</head>
+<body>
+welcome to git repository
+</body>
+</html>
